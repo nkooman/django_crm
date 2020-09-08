@@ -1,0 +1,28 @@
+body {
+  background: #ebeff5;
+}
+
+main,
+footer {
+  padding: 1rem;
+}
+
+.hello-message,
+.logout {
+  font-size: 18px;
+  color: #fff;
+  margin-right: 20px;
+}
+
+
+#total-orders {
+  background: #4cb4c7;
+}
+
+#orders-delivered {
+  background: #7abecc;
+}
+
+#orders-pending {
+  background: #7cd1c0;
+}
